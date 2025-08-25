@@ -90,7 +90,7 @@
   <ul id="slide-out" class="sidenav sidenav-fixed">
     <li>
       <div class="user-view">
-        <img class="circle" src="image/logo.png" alt="Admin Avatar">
+        <img class="circle" src="logo.png" alt="Admin Avatar">
         <div class="admin-label">Admin</div>
       </div>
     </li>

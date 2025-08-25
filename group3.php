@@ -8,6 +8,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Battambang&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
   <style>
     html, body {
       margin: 0;
@@ -80,13 +81,13 @@
         <div class="admin-label">ក្រុមទី ៣</div>
       </div>
     </li>
-    <li><a href="group3/homeA.php"><i class="material-icons">home</i>កុដិសាលាបាលី A</a></li>
-    <li><a href="group3/homeB.php"><i class="material-icons">home</i>កុដិសាលាបាលី B</a></li>
-    <li><a href="group3/homeC.php"><i class="material-icons">home</i>កុដិសាលាបាលី C</a></li>
-    <li><a href="group3/homeD.php"><i class="material-icons">home</i>កុដិសាលាបាលី D</a></li>
-    <li><a href="group3/home17.php"><i class="material-icons">home</i>កុដិលេខ ១៧</a></li>
-    <li><a href="group3/home20.php"><i class="material-icons">home</i>កុដិលេខ ២០</a></li>
-    <li><a href="group3/home21.php"><i class="material-icons">home</i>កុដិលេខ ២១</a></li>
+    <li><a href="homeA.php"><i class="material-icons">home</i>កុដិសាលាបាលី A</a></li>
+    <li><a href="homeB.php"><i class="material-icons">home</i>កុដិសាលាបាលី B</a></li>
+    <li><a href="homeC.php"><i class="material-icons">home</i>កុដិសាលាបាលី C</a></li>
+    <li><a href="homeD.php"><i class="material-icons">home</i>កុដិសាលាបាលី D</a></li>
+    <li><a href="home17.php"><i class="material-icons">home</i>កុដិលេខ ១៧</a></li>
+    <li><a href="home20.php"><i class="material-icons">home</i>កុដិលេខ ២០</a></li>
+    <li><a href="home21.php"><i class="material-icons">home</i>កុដិលេខ ២១</a></li>
   </ul>
 
   <!-- Main Content -->

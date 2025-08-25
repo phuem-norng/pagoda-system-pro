@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Battambang&display=swap" rel="stylesheet">
   <!-- Font Awesome for icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
   <style>
     body {
       font-family: 'Battambang', cursive;
@@ -119,7 +120,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image/image-member/<?= $m['id'] ?>.php">
+        <a href="m1.jpg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -155,7 +156,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m2.jpeg<?= $m['id'] ?>.php">
+        <a href="m2.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -191,7 +192,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m3.jpeg<?= $m['id'] ?>.php">
+        <a href="m3.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -227,7 +228,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image/image-member/m4.jpg<?= $m['id'] ?>.php">
+        <a href="m4.jpg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -263,7 +264,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m5.jpeg<?= $m['id'] ?>.php">
+        <a href="m5.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -299,7 +300,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m6.jpeg<?= $m['id'] ?>.php">
+        <a href="m6.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -335,7 +336,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m7.jpeg<?= $m['id'] ?>.php">
+        <a href="m7.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -371,7 +372,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m8.jpeg<?= $m['id'] ?>.php">
+        <a href="m8.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -407,7 +408,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m9.jpeg<?= $m['id'] ?>.php">
+        <a href="m9.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -443,7 +444,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m10.jpeg<?= $m['id'] ?>.php">
+        <a href="m10.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -479,7 +480,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m11.jpeg<?= $m['id'] ?>.php">
+        <a href="m11.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>

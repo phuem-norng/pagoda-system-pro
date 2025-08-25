@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>ព្រឹក សំអុល - Profile</title>
   <link href="https://fonts.googleapis.com/css2?family=Battambang&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
   <style>
     body {
       font-family: 'Battambang', cursive;

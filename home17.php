@@ -119,7 +119,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image/image-member/<?= $m['id'] ?>.php">
+        <a href="m1.jpg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -155,7 +155,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m2.jpeg<?= $m['id'] ?>.php">
+        <a href="m2.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -191,7 +191,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image-member/m3.jpeg<?= $m['id'] ?>.php">
+        <a href="m3.jpeg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>
@@ -227,7 +227,7 @@
     <tr>
       <td><?= $i++ ?></td>
       <td>
-        <a href="image/image-member/m4.jpg<?= $m['id'] ?>.php">
+        <a href="m4.jpg<?= $m['id'] ?>.php">
           <img src="image/<?= $m['photo'] ?>" class="photo" />
         </a>
       </td>

@@ -17,7 +17,7 @@
 </head>
 <body>
   <h2>ព័ត៌មានសមាជិក</h2>
-  <img src="../image/p1.jpg" alt="Monk Photo"><br>
+  <img src="p1.jpg" alt="Monk Photo"><br>
   <p>ឈ្មោះ: ព្រឹក សំអុល</p>
   <p>អាយុ: 18 ឆ្នាំ</p>
   <p>ថ្នាក់: កិត្តិយស</p>
